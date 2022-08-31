@@ -6,7 +6,6 @@ abstract class Fruit {
     Fruit(float wight){
         this.wight = wight;
     }
-
     public float getWight(){
         return wight;
     }
