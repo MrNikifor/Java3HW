@@ -1,4 +1,4 @@
-package Java3;
+package Java3.lesson1;
 
 import java.util.Arrays;
 public class TwoElements {
